@@ -1,0 +1,5 @@
+{
+  "name": "Rocket.Chat Unified Calendar",
+  "description": "A demo of the integrated personal calendar interface for Rocket.Chat, featuring event management and multiple views.",
+  "requestFramePermissions": []
+}
